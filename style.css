@@ -1,13 +1,13 @@
 @font-face {
   font-family: OpenSans-Bold;
-  src: url(https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff);
+  src: url(./fonts/OpenSans-Bold.woff);
   font-weight: 400;
   font-style: bold;
 }
 
 @font-face {
   font-family: OpenSans-Regular;
-  src: url(https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff);
+  src: url(./fonts/OpenSans-Regular.woff);
   font-weight: 400;
   font-style: normal;
 }
@@ -24,7 +24,7 @@ body {
 .header {
   position: relative;
   background-color: #0a0e34;
-  background-image: url(https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/football_767.jpg);
+  background-image: url(./img/football_767.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -309,7 +309,7 @@ body {
 
 .article-list-text {
   font-size: 16px;
-  line-height 20px;
+  line-height: 20px;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -319,7 +319,7 @@ body {
 .footer {
   position: relative;
   background-color: #0a0e34;
-  background-image: url(https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/game_767.jpg);
+  background-image: url(./img/game_767.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -457,7 +457,7 @@ body {
   /*Шапка сайта*/
   
   .header {
-    background-image: url(https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/football_1280.jpg);
+    background-image: url(./img/football_1280.jpg);
     height: 960px;
   }
   
@@ -628,7 +628,7 @@ body {
 
 .article-list-text {
   font-size: 24px;
-  line-height 28px;
+  line-height: 28px;
   margin-left: 5px;
   font-weight: bold;
 }
@@ -636,7 +636,7 @@ body {
 /*Подвал сайта*/
 
 .footer {
-  background-image: url(https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/game_1280.jpg);
+  background-image: url(./img/game_1280.jpg);
   width: 100%;
   height: 958px;
 }
@@ -727,7 +727,7 @@ body {
   /*Шапка сайта*/
 
 .header {
-  background-image: url(https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/football_1920.jpg);
+  background-image: url(./img/football_1920.jpg);
   height: 960px;
 }
 
@@ -951,7 +951,7 @@ body {
 
 .article-list-text {
   font-size: 1.25vw;/*24px*/
-  line-height 1.4vw;
+  line-height: 1.4vw;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -959,7 +959,7 @@ body {
 /*Подвал сайта*/
 
 .footer {
-  background-image: url(https://raw.githubusercontent.com/netology-code/mq-diploma/master/sources/img/game_1920.jpg);
+  background-image: url(./img/game_1920.jpg);
   height: 960px;
 }
 
